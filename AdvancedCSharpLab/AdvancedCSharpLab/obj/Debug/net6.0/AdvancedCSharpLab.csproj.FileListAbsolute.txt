@@ -1,0 +1,15 @@
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\bin\Debug\net6.0\AdvancedCSharpLab.exe
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\bin\Debug\net6.0\AdvancedCSharpLab.deps.json
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\bin\Debug\net6.0\AdvancedCSharpLab.runtimeconfig.json
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\bin\Debug\net6.0\AdvancedCSharpLab.dll
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\bin\Debug\net6.0\AdvancedCSharpLab.pdb
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.csproj.AssemblyReference.cache
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.AssemblyInfoInputs.cache
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.AssemblyInfo.cs
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.csproj.CoreCompileInputs.cache
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.dll
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\refint\AdvancedCSharpLab.dll
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.pdb
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\AdvancedCSharpLab.genruntimeconfig.cache
+C:\Users\amrapalimukherjee\source\repos\AdvancedCSharpLab\AdvancedCSharpLab\obj\Debug\net6.0\ref\AdvancedCSharpLab.dll
