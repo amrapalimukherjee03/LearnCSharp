@@ -1,0 +1,15 @@
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\bin\Debug\net6.0\LinqLab.exe
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\bin\Debug\net6.0\LinqLab.deps.json
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\bin\Debug\net6.0\LinqLab.runtimeconfig.json
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\bin\Debug\net6.0\LinqLab.dll
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\bin\Debug\net6.0\LinqLab.pdb
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.csproj.AssemblyReference.cache
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.AssemblyInfoInputs.cache
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.AssemblyInfo.cs
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.dll
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\refint\LinqLab.dll
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.pdb
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\LinqLab.genruntimeconfig.cache
+C:\Users\amrapalimukherjee\source\repos\LinqLab\LinqLab\obj\Debug\net6.0\ref\LinqLab.dll
