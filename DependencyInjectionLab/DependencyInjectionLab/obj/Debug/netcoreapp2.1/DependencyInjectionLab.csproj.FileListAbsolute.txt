@@ -1,0 +1,13 @@
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\bin\Debug\netcoreapp2.1\DependencyInjectionLab.deps.json
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\bin\Debug\netcoreapp2.1\DependencyInjectionLab.runtimeconfig.json
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\bin\Debug\netcoreapp2.1\DependencyInjectionLab.runtimeconfig.dev.json
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\bin\Debug\netcoreapp2.1\DependencyInjectionLab.dll
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\bin\Debug\netcoreapp2.1\DependencyInjectionLab.pdb
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.csproj.AssemblyReference.cache
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.AssemblyInfoInputs.cache
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.AssemblyInfo.cs
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.csproj.CoreCompileInputs.cache
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.dll
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.pdb
+C:\Users\amrapalimukherjee\source\repos\DependencyInjectionLab\DependencyInjectionLab\obj\Debug\netcoreapp2.1\DependencyInjectionLab.genruntimeconfig.cache
