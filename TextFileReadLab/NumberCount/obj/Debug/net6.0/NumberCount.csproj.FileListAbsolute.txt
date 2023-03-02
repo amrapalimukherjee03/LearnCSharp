@@ -1,0 +1,15 @@
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\bin\Debug\net6.0\NumberCount.exe
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\bin\Debug\net6.0\NumberCount.deps.json
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\bin\Debug\net6.0\NumberCount.runtimeconfig.json
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\bin\Debug\net6.0\NumberCount.dll
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\bin\Debug\net6.0\NumberCount.pdb
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.csproj.AssemblyReference.cache
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.AssemblyInfoInputs.cache
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.AssemblyInfo.cs
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.csproj.CoreCompileInputs.cache
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.dll
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\refint\NumberCount.dll
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.pdb
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\NumberCount.genruntimeconfig.cache
+C:\Users\amrapalimukherjee\source\repos\NumberCount\NumberCount\obj\Debug\net6.0\ref\NumberCount.dll
